@@ -1,0 +1,5 @@
+name = Ping Pong
+description = take a positive integer and counts up to that number, if a number is divisible by 3 than return ping, if its divisible by 5 then return pong, if it is divisible by 15 return pingpong. Using a form for input
+package = Conner
+core = 7.x
+files[] = ping_pong.module
